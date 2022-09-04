@@ -5,4 +5,6 @@
 - 👯 I am looking to collaborate on industrial levels.
 - 🤔 I am looking for help with upgrading my skills.
 - 📫 How to reach me: vishalarak1@gmail.com
+
+![](https://komarev.com/ghpvc/?username=vishalarak&color=ff69b4)
 -->
