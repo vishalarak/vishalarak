@@ -8,7 +8,6 @@
 
 ### I'm a Web Development Enthusiastic, Learner & Dreamer ✨
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=000000&background=EFF1F300&vCenter=true&width=400&lines=+A+Multidisciplinary+Web-Development+Enthusiastic!;Transforming+concepts+into+reality..;+Elevating+software+solutions..;+Crafting+seamless+digital+experiences." alt="Typing SVG" /></a>
 
 <p>
    As a computer science student, I have a strong foundation in programming, software development, and computer science theory. I am experienced in Java, SQL, and Frontend and have developed several web applications. 
