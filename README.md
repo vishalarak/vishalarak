@@ -1,4 +1,4 @@
-### Hey, I am Vishal 👋
+### Hey, I am Vishal ✋
 
 <br/>
 
