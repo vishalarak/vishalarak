@@ -1,4 +1,4 @@
-### Hey, I am Vishal 👋
+### Hey, I am Vishal ✋
 
 <br/>
 
@@ -7,7 +7,6 @@
 <br/>
 
 ### I'm a Web Development Enthusiastic, Learner & Dreamer ✨
-
 
 <p>
    As a computer science student, I have a strong foundation in programming, software development, and computer science theory. I am experienced in Java, SQL, and Frontend and have developed several web applications. 
