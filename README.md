@@ -6,7 +6,7 @@
 
 <br/>
 
-### I'm a Web Development Enthusiastic, Learner & Dreamer ✨
+### I'm a Software Engineer ✨
 
 <p>
    As a computer science student, I have a strong foundation in programming, software development, and computer science theory. I am experienced in Java, SQL, and Frontend and have developed several web applications. 
@@ -24,10 +24,14 @@ Please feel free to contact me on LinkedIn for any new opportunities.
 
 ### Languages and Tools:
 
-<p>HTML</p>
+<p><img align="center"src="https://www.vectorlogo.zone/logos/react/react-icon.svg" height="30" width="40" />React.Js</p>
+<p>Next.js</p>
 <p>CSS3</p>
-<p>JavaScrip</p>
 <p>BootStrap</p>
-<p>PHP</p>
-<p>Java</p>
+<p>Tailwindcss</p>
+<p>JavaScrip</p>
+<p>Node.js</p>
+<p>Nest.Js</p>
+<p>PostgreSQL</p>
 <p>MySQL</p>
+<p>MongoDB</p>
